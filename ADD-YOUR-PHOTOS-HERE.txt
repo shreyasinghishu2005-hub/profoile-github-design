@@ -1,0 +1,3 @@
+Add your own profile photo here as profile.jpg.
+For a team/hackathon banner, add team-photo.png and update index.html to reference assets/team-photo.png.
+The image files themselves were not included because only the Markdown snippets were shared.
